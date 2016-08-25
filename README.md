@@ -30,7 +30,7 @@ Build Instructions below:
 
 ## License
 
-All parts of Skeleton-sass are free to use and abuse under the [open-source MIT license](http://opensource.org/licenses/mit-license.php).
+All parts of Responsive Resume are free to use and abuse under the [open-source MIT license](http://opensource.org/licenses/mit-license.php).
 
 
 
