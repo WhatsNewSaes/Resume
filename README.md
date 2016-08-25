@@ -23,7 +23,6 @@ It also comes with a matching .sketch file for your design needs.
 
 ## License
 All parts of Responsive Resume are free to use under the [open-source MIT license](http://opensource.org/licenses/mit-license.php).
->>>>>>> origin/master
 
 
 ## Acknowledgement
