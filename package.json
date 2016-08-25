@@ -1,22 +1,21 @@
 {
-  "name": "skeleton-scss",
-  "version": "2.0.4",
+  "name": "responsive-resume",
+  "version": "1.0.0",
   "description": "The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
   "repository": {
     "type": "git",
     "url": "https://github.com/WhatsNewSaes/Skeleton-Sass"
   },
   "bugs": {
-    "url": "https://github.com/WhatsNewSaes/Skeleton-Sass/issues"
+    "url": "https://github.com/WhatsNewSaes/resume/issues"
   },
-  "homepage": "https://github.com/whatsnewsaes/Skeleton-Sass",
-  "author": "Seth Coelen <scoelen89@gmail.com>  (http://sethcoelen.com/)",
+  "homepage": "https://github.com/whatsnewsaes/resume",
+  "author": "Seth Coelen <seth@coelen.co>  (http://sethcoelen.com/)",
   "keywords": [
-    "skeleton",
+    "resume",
     "sass",
     "scss",
     "responsive",
-    "boilerplate"
   ],
   "license": "MIT",
   "devDependencies": {
